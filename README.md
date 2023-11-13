@@ -3,7 +3,6 @@ FOLLOW TIK TOK SPOKYHOZOO TEMBUS 1m
 git clone https://github.com/hozoo/SPOKYHOZOO-SPAM-BRUTAL.py
 
 cd SPOKYHOZOO-SPAM-BRUTAL.py
-
-ls
+LS
 
 python SPOKYHOZOO-SPAM-BRUTAL.py
